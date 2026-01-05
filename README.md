@@ -54,6 +54,8 @@ Al utilizar librerías como **SHAP**, descubrimos que aunque el Oro es el predic
 
 ![Logistic Regression Shapley Values](./imgs/lr_shap.png)
 
+Para un análisis completo de cada modelo y el resultado final, revisar la [memoria](./Memoria%20AA1%20Practica%2002.pdf).
+
 ## 🚀 Instalación y Uso
 
 1. Clonar el repositorio:
